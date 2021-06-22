@@ -22,4 +22,4 @@ This java mooc course part 1 was really crucial in my understandig of core JAVA 
 ## Progress:
 <img src="./ProgressImages/Part1,2.png" alt="Part1,2" width="350"/> <img src="./ProgressImages/Part3,4.png" alt="Part3,4" width="350"/> 
 
-<img src="./ProgressImages/Part5,6.png" alt="Part5,6" width="350"/>
+<img src="./ProgressImages/Part5,6.png" alt="Part5,6" width="350"/> <img src="./ProgressImages/Part7.png" alt="Part5,6" width="420"/>
